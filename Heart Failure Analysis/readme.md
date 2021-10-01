@@ -1,6 +1,7 @@
 
 Heart Failure Prediction
 12 clinical features por predicting death events.
+
 Dataset:https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
