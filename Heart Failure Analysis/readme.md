@@ -1,6 +1,6 @@
 
 Heart Failure Prediction
-12 clinical features por predicting death events.
+12 clinical features for predicting death events.
 
 Dataset:https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
