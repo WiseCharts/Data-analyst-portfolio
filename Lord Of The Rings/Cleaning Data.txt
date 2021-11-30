@@ -1,0 +1,34 @@
+1.Remove all punctuation marks: 
+	the period,
+	question mark,
+	exclamation point,
+	comma,
+	colon,
+	semicolon,
+	dash,
+	hyphen, 
+	brackets,
+	braces, 
+        parentheses,
+        apostrophe,
+        quotation mark,
+        and ellipsis
+
+Replace Value ; with empty
+
+2. Remove excess whitespace 
+
+Transform Trim 
+Transform Clean
+
+
+3. Make all characters lowercase
+
+Transform lowercase
+
+4. Remove some common English stop words (“I”, “she’ll”, “the”, "and" etc.)
+
+end  no  journey doesnt end here  death is just anor path one that we all must take       grey rain curtain of this world rolls back  all turns to silvered glass   n you see it
+
+5. Remove numbers
+
